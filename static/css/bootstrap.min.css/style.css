@@ -1,0 +1,25 @@
+/* Style for progress bar */
+.progress {
+    height: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: #ccc;
+  }
+  
+  .progress-bar {
+    height: 100%;
+    color: #fff;
+    text-align: center;
+    background-color: #ce6da4;
+    transition: width 0.6s ease;
+  }
+  
+  /* Style for label */
+  .progress-label {
+    color: #000;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+  }
+  
